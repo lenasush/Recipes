@@ -1,5 +1,4 @@
-eggs
+4 eggs
 milk
-flour
+120g flour
 chocolate
-
